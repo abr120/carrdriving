@@ -15,7 +15,7 @@
    "provider":"custom",
     "image":"https://abrahemm20007.files.wordpress.com/2020/06/index-1.jpg",
     "arguments":[
-      "https://galaxystore.samsung.com/geardetail/com.abrabi.carrdriving",
+      "http://apps.samsung.com/mars/appquery/appDetail.as?appId=com.abrabi.carrdriving",
       "url"
     ]
   },
