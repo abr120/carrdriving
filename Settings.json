@@ -1,10 +1,21 @@
 [
   {
-    "title":"التقييم",
+   
+    "title":"google play التقييم",
     "provider":"custom",
-    "image":"https://abrahemm20007.files.wordpress.com/2020/05/rate.png",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/06/index0-1.jpg",
     "arguments":[
       "https://play.google.com/store/apps/details?id=com.abrabi.carrdriving",
+      "url"
+    ]
+  },
+  
+ {
+    "title":"التقييم من galaxystore",
+   "provider":"custom",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/06/index-1.jpg",
+    "arguments":[
+      "https://galaxystore.samsung.com/geardetail/com.abrabi.carrdriving",
       "url"
     ]
   },
